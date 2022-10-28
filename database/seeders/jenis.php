@@ -16,15 +16,15 @@ class jenis extends Seeder
     {
         DB::table('jenis')->insert([
             [
-                'id' => 'xx1',
+                'id_kode' => 'xx1',
                 'jenis' => 'rempah'
             ],
             [
-                'id' => 'xx3',
+                'id_kode' => 'xx3',
                 'jenis' => 'kopi'
             ],
             [
-                'id' => 'xx4',
+                'id_kode' => 'xx4',
                 'jenis' => 'material'
             ]
 

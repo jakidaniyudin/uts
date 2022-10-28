@@ -95,5 +95,5 @@
         
     @endsection
 
-    <?php $dataBarang?>
+    
   
